@@ -1,0 +1,17 @@
+{
+    "name":"My Title",
+    "description":"This will show the title of web page",
+    "version":"1.0.0",
+    "manifest_version":3,
+    "action":{
+        "default _popup":"home.html",
+        "default_icon":"1.png"
+    },
+    "permission":[
+        "storage",
+        "activeTab",
+        "scripting",
+        "tabs"
+    ]
+
+}
